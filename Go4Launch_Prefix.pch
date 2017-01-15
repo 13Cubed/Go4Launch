@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Go4Launch' target in the 'Go4Launch' project
+//
+
+#ifdef __OBJC__
+#import <Cocoa/Cocoa.h>
+#endif
